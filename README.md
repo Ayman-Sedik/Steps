@@ -1,5 +1,5 @@
 # Steps
-> It is an educational application on interactive components in React.
+> It is an application of the concept of interactive components in React.
 
 ## Getting Started with Create React App
 
