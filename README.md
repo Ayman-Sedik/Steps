@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Steps
+> It is an educational application on interactive components in React.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
