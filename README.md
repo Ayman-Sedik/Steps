@@ -1,5 +1,5 @@
 # Steps
-> It is an application of the concept of interactive components in React.
+> The concept of interactive components in React.
 
 ## Demo
 https://github.com/Ayman-Sedik/GuessMyNumber-Game/assets/87248906/0d9d45e0-3de8-4938-90b9-57342c167657
